@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using dotnetapp.DTOs;
-using dotnetapp.Data;
 namespace dotnetapp.Services
 {
 
